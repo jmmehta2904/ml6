@@ -2,6 +2,9 @@ Assignment No. 4:
 A. Thread synchronisation using counting semaphores. Application to demonstrate: producer-
 consumer problem with counting semaphores and mutex.
 
+#gcc 4a 1.c -lpthread
+#./a.out
+
 #include<stdio.h>
 #include<pthread.h>
 #include<stdlib.h>
